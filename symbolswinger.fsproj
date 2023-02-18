@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="SymbolExtractor.fs" />
+    <Compile Include="src/SymbolExtractor.fs" />
 
-    <Compile Include="Program.fs" />
+    <Compile Include="src/Program.fs" />
   </ItemGroup>
 
   <ItemGroup>
